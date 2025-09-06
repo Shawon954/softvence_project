@@ -1,16 +1,35 @@
 # softvence_project
 
-A new Flutter project.
+“Flutter Alarm & Location App built with GetX. Allows users to set alarms, toggle them on/off, and fetch their current address using Geolocator.”
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Project setup instructions
 
-A few resources to get you started if this is your first Flutter project:
+* Clone the repository
+git clone https://github.com/yourusername/project_name.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Navigate into the project
+project_name
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Install dependencies
+flutter pub get
+
+* Run the app
+flutter run
+
+
+## Tools & packages used
+
+* Flutter – UI toolkit
+
+* GetX – State management & routing
+
+* GetStorage – Local storage for persistent data
+
+* flutter_local_notifications – Schedule notifications/alarms
+
+* timezone – Handle local time zones
+
+* geolocator – Get current location
+
+* geocoding – Convert coordinates to a human-readable address
