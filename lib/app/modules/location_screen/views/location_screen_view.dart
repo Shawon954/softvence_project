@@ -9,10 +9,13 @@ import 'package:softvence_project/app/utilities/app_String.dart';
 import 'package:softvence_project/app/utilities/app_images.dart';
 import 'package:softvence_project/app/utilities/app_textstyle.dart';
 
+import '../controllers/location_screen_controller.dart';
+
 class LocationScreenView extends StatelessWidget {
   const LocationScreenView({super.key});
   @override
   Widget build(BuildContext context) {
+    final controller = Get.put(LocationScreenController());
     return SafeArea(
       child: Scaffold(
         backgroundColor: AppColors.blackSecondaryColor,
@@ -36,7 +39,10 @@ class LocationScreenView extends StatelessWidget {
               CustomButton(
                 text: AppString.useLocation,
                 icon: Icons.place_outlined,
-                onPressed: () {},
+                onPressed: () {
+                  controller.getUserLocation();
+                  print('clikco');
+                },
               ),
               Gap(8.h),
               CustomButton(

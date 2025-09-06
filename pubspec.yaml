@@ -43,6 +43,8 @@ dependencies:
   intl: ^0.20.2
   gap: ^3.0.1
   flutter_screenutil: ^5.9.3
+  flutter_local_notifications: ^19.4.1
+  geocoding: ^4.0.0
 
 
 
@@ -72,6 +74,7 @@ flutter:
   assets:
      - assets/onboarding/
      - assets/home/
+     - assets/screenshort/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
