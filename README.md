@@ -35,9 +35,15 @@ flutter run
 * geocoding – Convert coordinates to a human-readable address
   
 ## Screenshots
+[Onboarding 1]:https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen1.jpg
+[Onboarding 2]:https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen2.jpg
+[Onboarding 3]:https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen3.jpg
+[Access Location]:https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen4.jpg
+[Alarm]: https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen5.jpg
 
-![Onboarding 1](https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen1.jpg)
-![Onboarding 2](https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen2.jpg)
-![Onboarding 3](https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen3.jpg)
-![Access Location](https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen4.jpg)
-![Alarm](https://github.com/Shawon954/softvence_project/raw/master/assets/screenshort/screen5.jpg)
+|    Onboarding 1   |    Onboarding 2    |    Onboarding 3    |    Access Location     |        Alarm         |
+| :-------------:   | :-------------:    | :-------------:    |    :-------------:     |    :-------------:   |
+|![alt text][Onboarding 1]|![alt text][Onboarding 2 ]|![alt text][Onboarding 3]| ![alt text][Access Location]|![alt text][Alarm]
+
+
+
