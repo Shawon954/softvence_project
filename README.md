@@ -6,7 +6,7 @@
 ## Project setup instructions
 
 * Clone the repository
-git clone https://github.com/yourusername/project_name.git
+git clone [https://github.com/Shawon954/softvence_project.git]
 
 * Navigate into the project
 project_name
@@ -33,3 +33,12 @@ flutter run
 * geolocator – Get current location
 
 * geocoding – Convert coordinates to a human-readable address
+  
+## Screenshots
+
+[Onboarding 1]: [https://github.com/Shawon954/softvence_project/blob/master/assets/screenshort/screen1.jpg]
+[Onboarding 2]: [https://github.com/Shawon954/softvence_project/blob/master/assets/screenshort/screen2.jpg]
+[Onboarding 3]: [https://github.com/Shawon954/softvence_project/blob/master/assets/screenshort/screen3.jpg]
+[Access Location]: [https://github.com/Shawon954/softvence_project/blob/master/assets/screenshort/screen4.jpg]
+[Alarm]: [https://github.com/Shawon954/softvence_project/blob/master/assets/screenshort/screen5.jpg]
+
